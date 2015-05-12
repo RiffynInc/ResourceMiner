@@ -9,11 +9,11 @@ Billions of dollars are lost each year on material and life science research wit
 We would like to develop a natural language processing toolkit for extracting controlled vocabularies (ontologies) of research resources used in the scientific literature, and organizing them into an associative knowledge graph. The tool will report on the frequency and context of use of terms that are fed to it from Riffyn’s (or any) ontology of research resources. To build the knowledge graph, the tool will annotate the ontology terms with keywords and subject area tags obtained from article annotations in PLOS and other journals. If time permits, the tool may also be extended to extract additional ontology terms from journal articles using a predictive algorithm.  The tag information could also be engineered to flow in the reverse direction (from the ontology to the journal) to suggest tags for articles, analogous to when LinkedIn suggests skills of a person for you to endorse.
 
 The project involves building five modules, some of which can be adapted from existing packages:
-* Intake: PLoS API interface or web scraper
-* Storage: database for text and tags
-* Simple parsing: processor to build tag-term matrix
-* Visualization: fancy data viz and stats
-* Advanced parsing: generate term-document matrix from papers DB
+* **Intake**: PLoS API interface or web scraper
+* **Storage**: database for text and tags
+* **Simple parsing**: processor to build tag-term matrix
+* **Visualization**: fancy data viz and stats
+* **Advanced parsing**: generate term-document matrix from papers DB
 These modules will be developed via two subprojects (deliverables) below.
 
 ### Deliverables
