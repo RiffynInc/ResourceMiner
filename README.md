@@ -38,3 +38,9 @@ These modules will be developed via two subprojects (deliverables) below.
 * `data/terms` -- term lists
 * `docs` -- further documentation
 * `test` -- reference files for testing
+
+### Getting started
+
+1. Check out the issues here in the GitHub repo
+2. Check out these [useful resoruces](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
+
