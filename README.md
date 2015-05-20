@@ -42,5 +42,5 @@ These modules will be developed via two subprojects (deliverables) below.
 ### Getting started
 
 1. Check out the issues here in the GitHub repo
-2. Check out these [useful resoruces](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
+2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
 
