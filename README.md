@@ -2,6 +2,11 @@
 
 [![Join the chat at https://gitter.im/RiffynInc/ResourceMiner](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/RiffynInc/ResourceMiner?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+### Getting started
+
+1. Check out the issues here in the GitHub repo and the [wiki](https://github.com/RiffynInc/ResourceMiner/wiki)
+2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
+
 ### About Riffyn
 
 Billions of dollars are lost each year on material and life science research with 10% reproducibility rates, and multi-million dollar failures during process transfer to manufacturing. Riffyn addresses this problem with a cloud-based operating system for laboratory R&D processes that combines computer-aided design of structured protocols including controlled vocabularies, real-time data acquisition, and automated statistical quality analytics.
@@ -39,8 +44,4 @@ These modules will be developed via two subprojects (deliverables) below.
 * `docs` -- further documentation
 * `test` -- reference files for testing
 
-### Getting started
-
-1. Check out the issues here in the GitHub repo
-2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
 
