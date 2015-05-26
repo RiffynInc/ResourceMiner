@@ -23,7 +23,7 @@ The project involves building five modules, some of which can be adapted from ex
 * **Intake**: PLoS API interface or web scraper
 * **Storage**: database for text and tags
 * **Simple parsing**: processor to build tag-term matrix
-* **Visualization**: fancy data viz and stats
+* **Visualization**: fancy data viz and stats (needs ideas)
 * **Advanced parsing**: generate term-document matrix from papers DB
 
 These modules will be developed via two subprojects (deliverables) below.
