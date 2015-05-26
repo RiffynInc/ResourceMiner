@@ -4,14 +4,15 @@
 
 ### Getting started
 
-1. Check out the issues here in the GitHub repo and the [wiki](https://github.com/RiffynInc/ResourceMiner/wiki)
+1. Check out the (to-be-posted) issues here in the GitHub repo and the [wiki](https://github.com/RiffynInc/ResourceMiner/wiki)
 2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
+3. Look through the [details](#details) section
 
 ### About Riffyn
 
 Billions of dollars are lost each year on material and life science research with 10% reproducibility rates, and multi-million dollar failures during process transfer to manufacturing. Riffyn addresses this problem with a cloud-based operating system for laboratory R&D processes that combines computer-aided design of structured protocols including controlled vocabularies, real-time data acquisition, and automated statistical quality analytics.
 
-### Project detail
+### Details
 
 We would like to develop a natural language processing toolkit for extracting controlled vocabularies (ontologies) of research resources used in the scientific literature, and organizing them into an associative knowledge graph. The tool will report on the frequency and context of use of terms that are fed to it from Riffyn’s (or any) ontology of research resources.
 
