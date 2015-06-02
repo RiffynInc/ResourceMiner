@@ -8,7 +8,7 @@
 2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
 3. Fork the repo and start coding!
 
-See also the [details](#details) section
+See also the [details](#details) section. Papers can be accessed through our MongoDB server: `mongodb://mozsprint:plos@ec2-52-26-49-156.us-west-2.compute.amazonaws.com/plos`.
 
 ### About Riffyn
 
@@ -20,15 +20,7 @@ We would like to develop a natural language processing toolkit for extracting co
 
 To build the knowledge graph, the tool will annotate the ontology terms with keywords and subject area tags obtained from article annotations in PLOS and other journals. If time permits, the tool may also be extended to extract additional ontology terms from journal articles using a predictive algorithm. The tag information could also be engineered to flow in the reverse direction (from the ontology to the journal) to suggest tags for articles, analogous to when LinkedIn suggests skills of a person for you to endorse.
 
-The project involves building five modules, some of which can be adapted from existing packages:
-
-* **Intake**: PLoS API interface or web scraper
-* **Storage**: database for text and tags
-* **Simple parsing**: processor to build tag-term matrix
-* **Visualization**: fancy data viz and stats (needs ideas)
-* **Advanced parsing**: generate term-document matrix from papers DB
-
-These modules will be developed via two subprojects (deliverables) below.
+The toolkit will be developed via two subprojects (deliverables) below.
 
 ### Deliverables
 
