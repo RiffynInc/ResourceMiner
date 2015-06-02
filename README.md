@@ -4,9 +4,11 @@
 
 ### Getting started
 
-1. Check out the (to-be-posted) issues here in the GitHub repo and the [wiki](https://github.com/RiffynInc/ResourceMiner/wiki)
+1. Look through the [issues](https://github.com/RiffynInc/ResourceMiner/issues) here in the GitHub repo and the [wiki](https://github.com/RiffynInc/ResourceMiner/wiki).
 2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
-3. Look through the [details](#details) section
+3. Fork the repo and start coding!
+
+See also the [details](#details) section
 
 ### About Riffyn
 
