@@ -32,15 +32,14 @@ These modules will be developed via two subprojects (deliverables) below.
 
 ### Structure
 
-* `bin` -- scripts, executables, etc.
 * `config` -- configuration files
 * `data/papers` -- plaintext paper content
 * `data/terms` -- term lists
 * `docs` -- further documentation
+* `src` -- code
 * `test` -- reference files for testing
 
 ### Getting started
 
 1. Check out the issues here in the GitHub repo
 2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
-
