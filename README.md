@@ -40,8 +40,3 @@ The toolkit will be developed via two subprojects (deliverables) below.
 * `docs` -- further documentation
 * `src` -- code
 * `test` -- reference files for testing
-
-### Getting started
-
-1. Check out the issues here in the GitHub repo
-2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
