@@ -34,9 +34,9 @@ The toolkit will be developed via two subprojects (deliverables) below.
 
 ### Structure
 
+* `bin` -- code
 * `config` -- configuration files
 * `data/papers` -- plaintext paper content
 * `data/terms` -- term lists
 * `docs` -- further documentation
-* `src` -- code
 * `test` -- reference files for testing
