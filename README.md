@@ -8,9 +8,11 @@
 2. Check out these [useful resources](https://github.com/RiffynInc/ResourceMiner/wiki/Useful-Resources)
 3. Fork the repo and start coding!
 
-See also the [details](#details) section. Papers can be accessed through our MongoDB server:
+See also the [details](#details) section. Papers and results can be accessed through our MongoDB server:
 
-`mongodb://mozsprint:plos@ec2-52-26-49-156.us-west-2.compute.amazonaws.com/plos`.
+`mongo ec2-52-26-49-156.us-west-2.compute.amazonaws.com/plos -u mozsprint -p plos`.
+
+Papers are stored in collections with the journal names. The results (term-subject matches) are in the `term_subject` collection.
 
 ### About Riffyn
 
